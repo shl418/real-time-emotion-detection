@@ -2,7 +2,7 @@
 
 ### 1. some clarifications
 
-If you want to see the detailed structure of the emotion detection model, please check [CNN-Emotion-Detection](https://github.com/shl418/emotion-detection-keras)
+If you want to see the detailed structure of the emotion detection model I built, please check [CNN-Emotion-Detection](https://github.com/shl418/emotion-detection-keras)
 
 Model used for face Dectection is from opencv: haarcascade-fontalface-alt.xml.
 
@@ -16,16 +16,21 @@ Model used for face Dectection is from opencv: haarcascade-fontalface-alt.xml.
 
 ### 3. Instructions for installing Environments
 
-​	pip install opencv-python
+```
+pip install opencv-python
 
-​	pip install tensorflow
+pip install tensorflow
 
-​	pip install numpy
+pip install numpy
 
-​	pip install imutils
+pip install imutils
 
-​	pip install keras
+pip install keras
+```
 
 ### 3. Instructions for Running the Program
 
-**Run** run-realtime.py
+In terminal, enter the following code
+`python3 run-realtime.py`
+
+Press **q** to exit
