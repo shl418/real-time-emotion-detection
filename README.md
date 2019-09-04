@@ -2,7 +2,7 @@
 
 ### 1. some clarifications
 
-If you want to see the detailed structure of the emotion detection model, please check [CNN-Emotion-Detection]()
+If you want to see the detailed structure of the emotion detection model, please check [CNN-Emotion-Detection](https://github.com/shl418/emotion-detection-keras)
 
 Model used for face Dectection is from opencv: haarcascade-fontalface-alt.xml.
 
