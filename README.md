@@ -33,4 +33,4 @@ pip install keras
 In terminal, enter the following code
 `python3 run-realtime.py`
 
-Press **q** to exit
+Press **q** for the program to exit
