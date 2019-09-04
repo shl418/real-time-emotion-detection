@@ -34,3 +34,7 @@ In terminal, enter the following code
 `python3 run-realtime.py`
 
 Press **q** for the program to exit
+
+The camera window will open **behind** the current window,
+if the program is running and you can not see any windows opened,
+please check behind your current window.
