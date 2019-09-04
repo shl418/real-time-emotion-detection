@@ -38,3 +38,15 @@ Press **q** for the program to exit
 The camera window will open **behind** the current window,
 if the program is running and you can not see any windows opened,
 please check behind your current window.
+
+### 4. Demos
+
+<img src="/Users/ace/Library/Application Support/typora-user-images/image-20190904154241400.png" alt="image-20190904154241400" style="zoom: 25%;" />
+
+<img src="/Users/ace/Library/Application Support/typora-user-images/image-20190904154616289.png" alt="image-20190904154616289" style="zoom:25%;" />
+
+<img src="/Users/ace/Library/Application Support/typora-user-images/image-20190904154635102.png" alt="image-20190904154635102" style="zoom:25%;" />
+
+<img src="/Users/ace/Library/Application Support/typora-user-images/image-20190904154713362.png" alt="image-20190904154713362" style="zoom:25%;" />
+
+<img src="/Users/ace/Library/Application Support/typora-user-images/image-20190904154829783.png" alt="image-20190904154829783" style="zoom:25%;" />
